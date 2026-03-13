@@ -8,4 +8,4 @@ NOTE
 
 testcase.txt -> ตัว input testcase
 
-ืn1-4 คือเฉลยของแต่ละข้อ
+n1-4 คือเฉลยของแต่ละข้อ
